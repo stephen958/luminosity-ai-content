@@ -87,4 +87,4 @@ User-agent: PetalBot
 Allow: /
 
 # Sitemap for AI bots
-Sitemap: https://YOUR-SITE.pages.dev/sitemap.xml
+Sitemap: https://luminosity-ai-content.pages.dev/sitemap.xml
