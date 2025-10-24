@@ -1,0 +1,15 @@
+# Cloudflare Pages / GitHub Pages custom headers
+# This file tells crawlers that canonical URLs are on ai-luminosity.com
+
+/*
+  X-Robots-Tag: noindex, follow
+  X-Canonical-Domain: ai-luminosity.com
+
+/index.html
+  Link: <https://www.ai-luminosity.com/>; rel="canonical"
+
+/services.html
+  Link: <https://www.ai-luminosity.com/services>; rel="canonical"
+
+/questionsandanswers.html
+  Link: <https://www.ai-luminosity.com/questionsandanswers>; rel="canonical"

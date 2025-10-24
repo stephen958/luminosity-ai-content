@@ -1,0 +1,12 @@
+# GitHub Pages configuration
+title: Luminosity AI - LLM Optimized Content
+description: AI-optimized content for Luminosity AI services
+url: "https://stephen958.github.io"
+baseurl: "/ai-luminosity-llm"
+
+# Build settings
+markdown: kramdown
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
